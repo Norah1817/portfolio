@@ -15,3 +15,6 @@ A personal portfolio showcasing data analytics projects
 - سرد القصص بالبيانات (Data Storytelling)
 - النمذجة التنبؤية والتصنيف
 
+ تواصل معي
+
+- Email: [Nomohamed94@gmail.com]
